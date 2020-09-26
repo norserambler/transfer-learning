@@ -1,1 +1,1 @@
-# transfer-learning
+# Classification model using vgg16 and transfer learning.
